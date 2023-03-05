@@ -1,4 +1,4 @@
-# **HeadOwner**
+# **HeadOwner [LabyMod 3]**
 ## [Click here for 1.12.2 Version](https://github.com/RappyLabyAddons/HeadOwner)
 > With this Addon you can add a new modules to your screen which shows the username of the playerhead you're looking at.
 
